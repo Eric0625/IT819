@@ -4,7 +4,7 @@ import csv
 # mysql 数据库链接信息
 DB_HOST = 'localhost'
 DB_USER = 'root'
-DB_PASSWORD = 'Dandpak2020'
+DB_PASSWORD = 'test'
 DB_NAME = 'mafengwo'
 
 connection = pymysql.connect(
